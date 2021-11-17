@@ -1,0 +1,37 @@
+body{
+  background-image: url(telephone_rouge_3_3.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: rgb(77,85,87);
+}
+p{
+	color:white;
+  font-style: normal;
+}
+h1{
+	color:white;
+  font-style: normal;
+}
+h2{
+	color:white;
+  font-style: normal;
+}
+a{
+  color:white;
+  font-style: normal;
+}
+svg{
+  color:white;
+}
+h5{
+	font-style: normal;
+}
+.img-thumbnail{
+	width : 350px;
+	height : 500px;
+ border: none;
+ -moz-border-radius : 75px;
+ -webkit-border-radius : 75px;
+ border-radius : 75px;
+}

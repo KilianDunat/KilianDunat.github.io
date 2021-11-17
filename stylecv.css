@@ -1,0 +1,14 @@
+.img-thumbnail{
+	width : 350px;
+	height : 500px;
+ border: none;
+ -moz-border-radius : 75px;
+ -webkit-border-radius : 75px;
+ border-radius : 75px;
+}
+button{
+	background-color: black;
+}
+a{
+	font-style: normal;
+}
